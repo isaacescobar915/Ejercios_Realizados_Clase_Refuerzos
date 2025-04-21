@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\Ciclo while\bin\Debug\Ciclo while.exe.config
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\Ciclo while\bin\Debug\Ciclo while.exe
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\Ciclo while\bin\Debug\Ciclo while.pdb
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\Ciclo while\obj\Debug\Ciclo while.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\Ciclo while\obj\Debug\Ciclo while.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\Ciclo while\obj\Debug\Ciclo while.exe
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\Ciclo while\obj\Debug\Ciclo while.pdb

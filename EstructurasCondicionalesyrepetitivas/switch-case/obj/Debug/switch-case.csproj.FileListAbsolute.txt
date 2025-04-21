@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\switch-case\bin\Debug\switch-case.exe.config
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\switch-case\bin\Debug\switch-case.exe
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\switch-case\bin\Debug\switch-case.pdb
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\switch-case\obj\Debug\switch-case.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\switch-case\obj\Debug\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\switch-case\obj\Debug\switch-case.exe
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\switch-case\obj\Debug\switch-case.pdb

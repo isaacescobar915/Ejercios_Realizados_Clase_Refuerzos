@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\Estructurascondicionales\bin\Debug\Estructurascondicionales.exe.config
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\Estructurascondicionales\bin\Debug\Estructurascondicionales.exe
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\Estructurascondicionales\bin\Debug\Estructurascondicionales.pdb
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\Estructurascondicionales\obj\Debug\Estructurascondicionales.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\Estructurascondicionales\obj\Debug\Estructurascondicionales.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\Estructurascondicionales\obj\Debug\Estructurascondicionales.exe
+C:\Users\Usuario\source\repos\EstructurasCondicionalesyrepetitivas\Estructurascondicionales\obj\Debug\Estructurascondicionales.pdb

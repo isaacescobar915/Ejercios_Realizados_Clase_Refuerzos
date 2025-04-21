@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "EstructurasCondicionalesyrepetitivas\\Conversiondedatos.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TiposDatos\\TiposDatos.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
