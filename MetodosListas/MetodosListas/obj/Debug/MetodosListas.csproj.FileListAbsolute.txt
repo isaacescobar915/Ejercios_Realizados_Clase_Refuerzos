@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\MetodosListas\MetodosListas\bin\Debug\MetodosListas.exe.config
+C:\Users\Usuario\source\repos\MetodosListas\MetodosListas\bin\Debug\MetodosListas.exe
+C:\Users\Usuario\source\repos\MetodosListas\MetodosListas\bin\Debug\MetodosListas.pdb
+C:\Users\Usuario\source\repos\MetodosListas\MetodosListas\obj\Debug\MetodosListas.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\MetodosListas\MetodosListas\obj\Debug\MetodosListas.Form1.resources
+C:\Users\Usuario\source\repos\MetodosListas\MetodosListas\obj\Debug\MetodosListas.Properties.Resources.resources
+C:\Users\Usuario\source\repos\MetodosListas\MetodosListas\obj\Debug\MetodosListas.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\MetodosListas\MetodosListas\obj\Debug\MetodosListas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MetodosListas\MetodosListas\obj\Debug\MetodosListas.exe
+C:\Users\Usuario\source\repos\MetodosListas\MetodosListas\obj\Debug\MetodosListas.pdb
